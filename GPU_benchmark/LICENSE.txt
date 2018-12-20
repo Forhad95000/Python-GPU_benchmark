@@ -1,0 +1,13 @@
+License Description
+====================
+GPU_benchmark is a module for Python created by Forhad Hossain. Python programming language is under open
+source license. According to that user is allowed to share with others but not allowed to modify or sell 
+it. GitHub license is the same. User is allowed to share GPU_benchmark module with others. Not allowed to
+modify or sell it.
+   
+Any person, blog, website can brodcast about this module. If they the name
+of writer of this module there's a request to display the real writer's name. Not allowed to make fake 
+writer. Repositories found in GitHub are open source. But user is not allowed to make own repository
+with it.
+
+Thanks for reading.
