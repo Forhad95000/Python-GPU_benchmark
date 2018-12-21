@@ -18,7 +18,7 @@ Installation
 -------------
 - Download this repository.
 - Extract the zip file.
-- Run Command Promt and type "cd <path of extracted repository folder>" and press Enter.
+- Run Command Promt and type "cd 'path of extracted repository folder'" and press Enter.
 - Type "python setup.py install" and press Enter. The Module will be installed automatically.
 
 License
