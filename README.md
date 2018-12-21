@@ -8,15 +8,18 @@ This is a moudule for [Python](https://en.wikipedia.org/wiki/Python_(programming
 
 Requirements
 -------------
-OS: Winwdos 7 32/64 bit or higher
-Python: Python 2.7+ or Python 3.5+
+
+These requirements are minimumn:
+
+* OS     : Winwdos 7 32/64 bit or higher
+* Python : Python 2.7+ or Python 3.5+
 
 Installation
 -------------
-* Download this repository.
-* Extract the zip file.
-* Run Command Promt and type "cd <path of extracted repository folder>" and press Enter.
-* Type "python setup.py install" and press Enter. The Module will be installed automatically.
+- Download this repository.
+- Extract the zip file.
+- Run Command Promt and type "cd <path of extracted repository folder>" and press Enter.
+- Type "python setup.py install" and press Enter. The Module will be installed automatically.
 
 License
 --------
