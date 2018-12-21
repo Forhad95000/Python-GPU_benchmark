@@ -1,4 +1,4 @@
-GPU_benchmark
+Python-GPU_benchmark
 ==============
 <img align="right" width=320 height=180 src="https://s17-us2.startpage.com/cgi-bin/serveimage?url=https%3A%2F%2Fimages.nvidia.com%2Fgeforce-com%2Finternational%2Fimages%2Farticles%2Fgeforce-gtx-10-series-july-2018%2Fzotac-geforce-gtx-1080-ti-mini.png&sp=15465840440ce78641f952de8ac4738f" />
 
