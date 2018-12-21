@@ -21,6 +21,10 @@ Installation
 - Run Command Promt and type "cd 'path of extracted repository folder'" and press Enter.
 - Type "python setup.py install" and press Enter. The Module will be installed automatically.
 
+Support
+--------
+E-mail to farhadhossain95000@gmail.com for support.
+
 License
 --------
 This module is under MIT license. Read `LICENSE.txt` file for more description.
